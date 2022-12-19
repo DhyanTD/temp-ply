@@ -5,6 +5,9 @@ import time
 import threading
 import os
 
+# dhyan
+
+
 def read_audio(stream, filename):
     chunk = 1024  # Record in chunks of 1024 samples
     sample_format = pyaudio.paInt16  # 16 bits per sample
