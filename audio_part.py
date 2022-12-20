@@ -8,9 +8,6 @@ import os
 # dhyan
 
 # hello there
-
-
-
 # haii
 def read_audio(stream, filename):
     chunk = 1024  # Record in chunks of 1024 samples
